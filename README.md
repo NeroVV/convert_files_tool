@@ -8,12 +8,12 @@ python3 ./PyGUI_tools/PyGUI_main.py
 运行后会显示如下界面
 ![image](sample_image/PyGUI.png)
 #### 2.Convert tool界面教程
-#####2.1 点击chose the file  
-#####2.2 如图所示，选择需要转换的文件  
+####2.1 点击chose the file  
+####2.2 如图所示，选择需要转换的文件  
 红框:选择文件类型  
 蓝框:选择一个或多个文件
 ![image](sample_image/chose_files.png)
-#####2.3 点击打开，然后按start开始转换 
+####2.3 点击打开，然后按start开始转换 
 显示转换结果和文件路径
 ![image](sample_image/result.png)
-#####2.4 点击exit退出程序 
+####2.4 点击exit退出程序 
