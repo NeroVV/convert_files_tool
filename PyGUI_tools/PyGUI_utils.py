@@ -19,7 +19,7 @@ def transfer_GUI():
         ],
         [
             sg.FilesBrowse(
-                'chose the file',
+                'chose files',
                 key='file',
                 target='filename',
                 file_types=[

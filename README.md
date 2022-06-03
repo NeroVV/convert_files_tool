@@ -8,7 +8,7 @@ python3 ./PyGUI_tools/PyGUI_main.py
 运行后会显示如下界面  
 ![image](sample_image/PyGUI.png)
 #### 2.Convert tool界面教程
-##### 2.1 点击chose the file  
+##### 2.1 点击chose files  
 ##### 2.2 如图所示，选择需要转换的文件  
 红框:选择文件类型  
 蓝框:选择一个或多个文件  
