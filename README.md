@@ -1,7 +1,7 @@
 # 批量转换PDF和word文件
 ## Prerequisite:
 国内清华大学镜像源: https://pypi.tuna.tsinghua.edu.cn/simple  
-pip install requirement.txt -i https://pypi.tuna.tsinghua.edu.cn/simple  
+pip install -r requirement.txt -i https://pypi.tuna.tsinghua.edu.cn/simple  
 ## Guideline
 #### 1.运行主程序
 python3 ./PyGUI_tools/PyGUI_main.py  
